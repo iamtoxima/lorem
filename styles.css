@@ -13,12 +13,16 @@ h1{
 }
 h2{
   padding-top: 40px;
-  border-radius: 0.5px solid;
+  border-top: 0.5px solid white;
 
 }
 #bio a{
     color: aqua;
 }
-.social-media-link {
-    color: yellow;
+.social-media-links {
+    color: rgb(94, 94, 92), 94, 92);
+}
+ul,ol{
+display: inline-block;
+
 }
